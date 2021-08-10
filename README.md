@@ -1,5 +1,6 @@
-# Coursera Capstone Project
-Analyzing coffee shops in Portland, Oregon
+# Coursera_Capstone
+### Analyzing coffee shops in Portland, Oregon
+Leverage the Foursquare location data to analyzing and clustering an area in Portland to scope down the point of interest for a place to opening new coffee shops.
 
 ![cluster](./image/cluster.png)
 
@@ -22,5 +23,5 @@ Information about all venues including venue identification, names, their coordi
 For more details on the project, see ...
 
 - [Code](https://github.com/Pannakwt/Coursera_Capstone/blob/master/code.ipynb) - Source code with details.
-- [Report](https://github.com/Pannakwt/Coursera_Capstone/blob/master/full_report.pdf) - Methodology, Result, Discussion, and Conclusion.
+- [Report](https://github.com/Pannakwt/Coursera_Capstone/blob/master/full_report.pdf) - Methodology, Results, Discussion, and Conclusion.
 - [Presentation](https://github.com/Pannakwt/Coursera_Capstone/blob/master/presentation.pdf) - Full details of the project, in shorten version.
