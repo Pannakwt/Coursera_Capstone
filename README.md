@@ -1,4 +1,5 @@
-# Analyzing coffee shops in Portland, Oregon
+# Coursera Capstone Project
+Analyzing coffee shops in Portland, Oregon
 
 ![cluster](./image/cluster.png)
 
@@ -12,6 +13,14 @@ This project will be useful to someone who considers opening a coffee shop. Peop
 
 ## Data
 
-The main dataset used in the project is the US Household Income Statistics from Golden Oak Research Group from [Kaggle’s website](https://www.kaggle.com/goldenoakresearch/us-household-income-stats-geo-locations). The database contains about 32,000 records on US Household Income Statistics & Geo Locations. A full description of the dataset can be found on [Kaggle’s website](https://www.kaggle.com/goldenoakresearch/us-household-income-stats-geo-locations).
+The main dataset used in the project is the [US Household Income Statistics from Golden Oak Research Group](https://www.kaggle.com/goldenoakresearch/us-household-income-stats-geo-locations). The database contains about 32,000 records on US Household Income Statistics & Geo Locations. A full description of the dataset can be found on [Kaggle’s website](https://www.kaggle.com/goldenoakresearch/us-household-income-stats-geo-locations).
 
 Information about all venues including venue identification, names, their coordinates, distance from the defined coordinates, and categories obtained by passing the required parameters to the Foursquare API including the coordinates from the main dataset, credentials, API version, radius around the defined coordinates and limit of the results.
+
+## More
+
+For more details on the project, see ...
+
+- [Code](https://github.com/Pannakwt/Coursera_Capstone/blob/master/code.ipynb) - Source code with details.
+- [Report](https://github.com/Pannakwt/Coursera_Capstone/blob/master/full_report.pdf) - Methodology, Result, Discussion, and Conclusion.
+- [Presentation](https://github.com/Pannakwt/Coursera_Capstone/blob/master/presentation.pdf) - Full details of the project, in shorten version.
